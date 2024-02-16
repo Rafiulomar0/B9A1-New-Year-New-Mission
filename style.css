@@ -243,6 +243,7 @@ footer {
   background-color: #070211;
   height: 672px;
   color: #fff;
+  font-size: 24px;
 }
 
 .information {
@@ -256,7 +257,33 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: "Inter", sans-serif;
 }
+
 .information div p img {
   padding-right: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.information h4 {
+  font-family: "Inter", sans-serif;
+}
+
+hr {
+  margin: 50px 0;
+  border: 1.5px solid #ffffff2b;
+  border-radius: 1.5px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.information-end {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
 }
