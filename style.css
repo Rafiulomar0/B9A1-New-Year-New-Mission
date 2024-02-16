@@ -236,3 +236,27 @@ body {
   margin-bottom: 80px;
   cursor: pointer;
 }
+
+/* footer */
+footer {
+  margin-top: 100px;
+  background-color: #070211;
+  height: 672px;
+  color: #fff;
+}
+
+.information {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.information div p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.information div p img {
+  padding-right: 10px;
+}
