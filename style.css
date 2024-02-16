@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
 
+/* general styles */
 * {
   margin: 0;
   box-sizing: border-box;
@@ -14,6 +15,7 @@ body {
   margin: 0 auto;
 }
 
+/* header banner */
 .new-year-banner {
   background-image: linear-gradient(#070211, #2701013e),
     url("./resources/banner-image.png");
@@ -35,4 +37,30 @@ body {
 .new-year-banner h1 {
   font-size: 72px;
   text-align: center;
+}
+
+/* offer */
+
+.offer {
+  margin-top: 150px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+.offer h2 {
+  color: #ff0000;
+  font-size: 88px;
+  font-weight: 700px;
+  margin: 30px 0;
+}
+.offer h3 {
+  color: #ff0000;
+  margin: 15px 0;
+  font-size: 24px;
+  font-weight: 400;
+}
+.offer h4 {
+  color: #070211;
+  margin-bottom: 50px;
+  font-size: 48px;
 }
