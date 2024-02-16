@@ -168,6 +168,16 @@ body {
   margin-top: 30px;
 }
 
+.gifts img {
+  cursor: pointer;
+  scale: 0.95;
+  transition: 0.1s ease-out;
+}
+
+.gifts img:hover {
+  scale: 1;
+}
+
 .gift h1 {
   color: #ff0000;
   font-size: 24px;
