@@ -70,6 +70,58 @@ body {
   font-size: 48px;
 }
 
+/* midnight-party */
+.mid-night-party {
+  color: #fff;
+  margin-top: 100px;
+  height: 600px;
+  background-image: linear-gradient(#070211, #2701013e),
+    url("./resources/vectorrr.png");
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+}
+
+.mid-night-party-1 {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 100px;
+}
+
+.mid-night-party-1 h1 {
+  font-size: 64px;
+  font-weight: 600;
+}
+
+.mid-night-party-1 p {
+  font-size: 18px;
+  color: #fff;
+  margin: 50px 0;
+  font-weight: 300;
+}
+
+.mid-night-party-1 button {
+  background: transparent;
+  padding: 5px;
+  font-size: 18px;
+  border: 0;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.mid-night-party-2 {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mid-night-party-2 img {
+  height: 400px;
+}
 /* party-time */
 .party-time {
   margin-top: 100px;
