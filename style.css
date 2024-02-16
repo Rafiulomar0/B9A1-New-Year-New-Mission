@@ -96,3 +96,61 @@ body {
   font-size: 20px;
   font-weight: 600;
 }
+
+/* comming soon */
+.comming-soon {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.comming-soon-d-1 {
+  width: 30%;
+}
+
+.comming-soon-d-1 h1 {
+  color: #ff0000;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Inter", sans-serif;
+}
+.comming-soon-d-1 h2 {
+  color: #000;
+  font-size: 48px;
+  padding: 15px 0;
+}
+
+.comming-soon-d-1 p {
+  color: #0702118e;
+  font-size: 20px;
+  text-align: justify;
+  font-family: "Inter", sans-serif;
+}
+
+.comming-soon-d-2 {
+  width: 30%;
+  border-radius: 100%;
+  border: 10px solid red;
+  margin: 0 auto;
+}
+
+.comming-soon-d-2 img {
+  width: 100%;
+  padding: 20px;
+}
+
+.comming-soon-d-3 {
+  width: 30%;
+}
+
+.comming-soon-d-3 h1 {
+  color: #ff0000;
+  font-family: "Inter", sans-serif;
+  font-size: 48px;
+}
+
+.comming-soon-d-3 p {
+  color: #0702118e;
+  padding: 10px 0 40px 0;
+  font-size: 20px;
+}
