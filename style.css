@@ -22,7 +22,7 @@ body {
 /* header banner */
 .new-year-banner {
   background-image: linear-gradient(#070211, #2701013e),
-    url("./resources/banner-image.png");
+    url("resources/banner-image.png");
   height: 600px;
   margin-top: 30px;
   display: flex;
@@ -76,7 +76,7 @@ body {
   margin-top: 100px;
   height: 600px;
   background-image: linear-gradient(#070211, #2701013e),
-    url("./resources/vectorrr.png");
+    url("resources/vectorrr.png");
   display: flex;
   justify-content: center;
   border-radius: 15px;
@@ -247,9 +247,9 @@ body {
 .holyday-img {
   height: 700px;
   margin-top: 100px;
-  background-image: url("./resources/group75.png"),
-    url("./resources/rectangle2.png"), url("./resources/group44.png"),
-    url("./resources/rectangle1.png");
+  background-image: url("resources/group75.png"),
+    url("resources/rectangle2.png"), url("resources/group44.png"),
+    url("resources/rectangle1.png");
   background-position: 10% 50%, bottom, 75% 30%, right 20%;
   background-repeat: no-repeat;
 }
