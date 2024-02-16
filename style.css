@@ -156,6 +156,52 @@ body {
   font-size: 20px;
 }
 
+/* holyday */
+
+.holyday {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.holyday h1 {
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+  color: #000;
+  font-weight: 400;
+}
+
+.holyday h2 {
+  font-size: 72px;
+  color: #000;
+  font-weight: 600;
+  margin: 25px 0;
+}
+
+.holyday span {
+  font-size: 72px;
+  color: #ff0000;
+}
+
+.holyday p {
+  font-family: "Inter", sans-serif;
+  font-size: 72px;
+  color: #ff0000;
+  font-size: 20px;
+  color: #0702118e;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.holyday-img {
+  height: 700px;
+  margin-top: 100px;
+  background-image: url("./resources/group75.png"),
+    url("./resources/rectangle2.png"), url("./resources/group44.png"),
+    url("./resources/rectangle1.png");
+  background-position: 10% 50%, bottom, 75% 30%, right 20%;
+  background-repeat: no-repeat;
+}
+
 /* gift */
 
 .gift {
