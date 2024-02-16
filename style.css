@@ -69,13 +69,6 @@ body {
   font-size: 48px;
 }
 
-/* mid party section */
-.mid-party {
-  background-image: url("./resources/Vectorrr.png");
-  color: #fff;
-  display: flex;
-}
-
 /* party-time */
 .party-time {
   margin-top: 100px;
