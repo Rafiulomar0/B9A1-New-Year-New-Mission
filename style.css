@@ -30,6 +30,7 @@ body {
   justify-content: center;
   align-items: center;
   color: #ffffff;
+  border-radius: 10px;
 }
 
 .new-year-banner h4 {
@@ -152,5 +153,41 @@ body {
 .comming-soon-d-3 p {
   color: #0702118e;
   padding: 10px 0 40px 0;
+  font-size: 20px;
+}
+
+/* gift */
+
+.gift {
+  margin-top: 100px;
+}
+
+.gifts {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.gift h1 {
+  color: #ff0000;
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
+.gift h2 {
+  color: #000;
+  font-size: 48px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.gift p {
+  font-family: "Inter", sans-serif;
+  color: #0702118e;
+  margin-bottom: 30px;
+  width: 50%;
+  text-align: justify;
   font-size: 20px;
 }
